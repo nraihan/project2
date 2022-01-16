@@ -1,0 +1,125 @@
+
+
+body{
+    margin: 0px;
+    padding:0px;
+    background: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.contain{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 30px;
+    width: 830px;
+    border: 3px solid white;
+  margin-left: 950px;
+  margin-top: 30px;
+  border-radius: 3px;
+  padding-top: 13px;
+    
+}
+.home{
+    
+}
+.home a{
+ text-decoration: none;
+ color: white;
+ 
+
+}
+.home a:hover{
+    color: lightgreen;
+}
+.about{
+    
+    
+}
+.about a{
+    text-decoration: none;
+    color: white;
+}
+.about a:hover{
+    color: lightgreen;
+}
+.pages{
+    
+}
+.pages a{
+    text-decoration: none;
+    color: white;
+}
+.pages a:hover{
+    color: lightgreen;
+}
+.shop{
+   
+}
+.shop a{
+    text-decoration: none;
+    color: white;
+}
+.shop a:hover{
+    color: lightgreen;
+}
+.trainers{
+  
+}
+.trainers a{
+    text-decoration: none;
+    color: white;
+}
+.trainers a:hover{
+    color: lightgreen;
+}
+.contact{
+   
+}
+.contact a{
+    text-decoration: none;
+    color: white;
+}
+.contact a:hover{
+    color: lightgreen;
+}
+.article{
+
+}
+.article .head h3{
+    color: azure;
+    font-size: 50px;
+    margin-left: 1130px;
+    margin-top: 300px;
+    text-decoration: underline;
+}
+
+
+.article .head h2{
+    color: azure;
+    font-size: 20px;
+    margin-left: 1130px;
+    margin-top: 50px;
+    text-align: justify;
+    height: 200px;
+    width: 600px;
+}
+
+.read{
+    display: inline-block;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid white;
+    padding: 10px;
+    margin-top: -40px;
+    float: right;
+    margin-right: 440px;
+}
+
+
+
+
+
+
